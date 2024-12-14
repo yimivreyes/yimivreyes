@@ -1,8 +1,8 @@
 <h1 align="center">Hello , I'm Yimy Valdez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; <h2>ABOUT ME</h2>
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-I am interested in Web designing, Android development, and digital marketing**
+In Progress..
+
 - 🌱 I’m currently learning ...
   - Python
   - Django
